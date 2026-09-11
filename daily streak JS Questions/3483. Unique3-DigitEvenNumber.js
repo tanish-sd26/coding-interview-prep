@@ -36,4 +36,4 @@ var totalNumbers = function(digits) {
     }
 
     return numbers.size;
-};
+}; 
