@@ -52,4 +52,4 @@ var countServers = function(n, logs, x, queries) {
     }
 
     return answer;
-};
+}
